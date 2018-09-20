@@ -1,0 +1,3 @@
+C:\Users\MENSASDD\Documents\DESARROLLO\LM Group\ToyRobot\ToyRobot.Console\obj\Debug\ToyRobot.Console.csprojAssemblyReference.cache
+C:\Users\MENSASDD\Documents\DESARROLLO\LM Group\ToyRobot\ToyRobot.Console\obj\Debug\ToyRobot.Console.exe.config
+C:\Users\MENSASDD\Documents\DESARROLLO\LM Group\ToyRobot\ToyRobot.Console\obj\Debug\ToyRobot.Console.csproj.CoreCompileInputs.cache

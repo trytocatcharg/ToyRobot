@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobot.Tests", "ToyRobot.Tests\ToyRobot.Tests.csproj", "{1CAD2760-6B58-4891-A22E-31FD6B4801F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToyRobot.Service", "ToyRobot.Service\ToyRobot.Service.csproj", "{9BB99B56-21C5-46FB-962D-2F433B8B83BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToyRobot.ViewModel", "ToyRobot.ViewModel\ToyRobot.ViewModel.csproj", "{0D3F02D5-EE10-443C-951A-DDE6F122B825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobot.ConsoleApp", "ToyRobot.Console\ToyRobot.ConsoleApp.csproj", "{CA7C5334-BA25-4EB5-89DE-25F542ECDC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAD2760-6B58-4891-A22E-31FD6B4801F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAD2760-6B58-4891-A22E-31FD6B4801F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAD2760-6B58-4891-A22E-31FD6B4801F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAD2760-6B58-4891-A22E-31FD6B4801F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB99B56-21C5-46FB-962D-2F433B8B83BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB99B56-21C5-46FB-962D-2F433B8B83BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB99B56-21C5-46FB-962D-2F433B8B83BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB99B56-21C5-46FB-962D-2F433B8B83BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3F02D5-EE10-443C-951A-DDE6F122B825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3F02D5-EE10-443C-951A-DDE6F122B825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3F02D5-EE10-443C-951A-DDE6F122B825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3F02D5-EE10-443C-951A-DDE6F122B825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7C5334-BA25-4EB5-89DE-25F542ECDC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7C5334-BA25-4EB5-89DE-25F542ECDC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7C5334-BA25-4EB5-89DE-25F542ECDC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7C5334-BA25-4EB5-89DE-25F542ECDC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A608C2A4-86FF-4510-A13F-254178EB0B44}
+	EndGlobalSection
+EndGlobal
